@@ -14,3 +14,12 @@
 *Software Engineering:* Trying to find methods and tools to solve big software problems during the lifecycle of a software project.
 
 - Don't apply the methods you will learn in this course in small projects, its useless.
+
+## Software Characteristics
+
+- Software is *developed*, not manufactured
+- Software does not wear out
+  * Just restart it when it slows down or crashes, lol
+- Software problems are *wicked*
+  * No one knows the problem completely, unless the project is done completely.
+- Should benefit from being assembled from existing components.
