@@ -11,6 +11,6 @@
 - Programming is not the problem, engineering the system is.
   * All the algorithmic level programs are already written and exists.
 
-*Software Engineering:* Trying to find methods and tools to solve big problems.
+*Software Engineering:* Trying to find methods and tools to solve big software problems during the lifecycle of a software project.
 
-- Don't apply the project you will learn in this course in small projects, its useless.
+- Don't apply the methods you will learn in this course in small projects, its useless.
