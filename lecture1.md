@@ -1,6 +1,6 @@
 # Software and Its Engineering
 (Ali Doğru)
-
+**(Start of 1st slide)**
 - Software engineering is the practical engineering of Computer Science.
 - Software demand has been grown exponentially since 1950.
 - So we made it into a systematic method to satisfy this need.
