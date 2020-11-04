@@ -1,4 +1,4 @@
-# Software Types
+## Software Types
 - System Software
 - Real-time Software
   * Any function needs to be respond in a defined time interval.
