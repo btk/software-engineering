@@ -19,3 +19,24 @@ Process: Ordered set of steps.
 - After coding (Maintainance)
 
 * More things you do before coding, you will need less time after coding.
+
+## Process
+- Requirements
+- Specification
+- Design
+- Coding
+- Testing & Debugging
+- Intergration
+- Maintainance
+
+> This is like a waterfall, so you don't climb back up. But you should be able to (!)
+
+* Software engineering problems are wicked problems. You don't know the problem fully till you finish it.
+> So we have iterations.
+
+**- waterfall = phase -**
+
+*Debugging* Why do we call errors in the code bugs? and what is debugging?
+> insects walk on the magnetic data storage units and they burn :)
+
+!-Methodologies-!
