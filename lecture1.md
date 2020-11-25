@@ -9,7 +9,7 @@
 - Software crisis (1980) 'we can't do it'.
 - There is a strong connection with Software and other engineering disciplines.
   * We mostly solve our problems with software.
-- Programming is not the problem, engineering the system is.
+- Programming is not the problem, 'engineering the system' is.
   * All the algorithmic level programs are already written and exists.
 
 *Software Engineering:* Trying to find methods and tools to solve big software problems during the lifecycle of a software project.

@@ -51,7 +51,7 @@ Process approaches:
 - Rational Unified Process, heavy process based
 - Agile Methodology, light process based
 
-*Note:* Quality standart certs like iso-1000, certifies processes, not the product.
+*Note:* Quality standard certs like iso-1000, certifies processes, not the product.
 
 ### Process Maturity Levels
 CMM, USA gov wants level 3 quality, there is aerospace companies who are 5th level
@@ -67,4 +67,4 @@ CMM, USA gov wants level 3 quality, there is aerospace companies who are 5th lev
 - Controlled Decentralized, CD: a defined leader partitions problems among sub groups.
 - Controlled Centralized, CC: vertical communication, team coordination by leader.
 
-buket- burak tokmak-urak sezgin
+buket - burak tokak - burak sezgin
